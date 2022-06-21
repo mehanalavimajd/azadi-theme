@@ -1,10 +1,11 @@
 {
 	"name": "Azadi",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#00eeff",
-		"sideBarTitle.foreground": "#ffffff"
+		"editor.background": "#2f3538",
+		"editor.foreground": "#c9c1c1",
+		"activityBarBadge.background": "#e58ae5",
+		"sideBarTitle.foreground": "#c2c2c2"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#526974"
+				"foreground": "#959ea0"
 			}
 		},
 		{
@@ -25,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e7a900"
+				"foreground": "#84cfcf"
 			}
 		},
 		{
@@ -34,7 +35,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#d6d6d6"
 			}
 		},
 		{
@@ -44,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ffd000"
 			}
 		},
 		{
@@ -55,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#3cff00"
+				"foreground": "#c58ceb"
 			}
 		},
 		{
@@ -75,7 +76,8 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#2cc9d4",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -86,7 +88,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#1f8fcf"
 			}
 		},
 		{
@@ -99,7 +101,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#df790c"
 			}
 		},
 		{
@@ -108,7 +110,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ec7d7d"
 			}
 		},
 		{
@@ -118,7 +120,8 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#5c927c",
+				"fontStyle": "italic underline"
 			}
 		},
 		{
@@ -134,7 +137,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -149,7 +152,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#31cc31"
 			}
 		},
 		{
@@ -158,14 +161,14 @@
 				"entity.name",
 				"support.type",
 				"support.class",
-				"support.other.namespace.use.php",
+				"support.orther.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
@@ -174,7 +177,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#a0c9da"
 			}
 		},
 		{
@@ -188,7 +191,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#c4ce3b"
 			}
 		},
 		{
@@ -199,7 +202,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#e4e3e3"
 			}
 		},
 		{
@@ -208,8 +211,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#800000"
 			}
 		},
 		{
@@ -249,7 +251,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#ff6b6b"
 			}
 		},
 		{
@@ -294,7 +296,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#917e9e"
 			}
 		},
 		{
