@@ -3,7 +3,6 @@
     "displayName": "Azadi",
     "description": "A lovely Dark theme for vscode",
     "version": "0.0.1",
-    "icon": "https://user-images.githubusercontent.com/74927578/174784294-8fabb399-3995-41a8-a88f-e86077b1de25.jpeg",
     "engines": {
         "vscode": "^1.68.0"
     },
