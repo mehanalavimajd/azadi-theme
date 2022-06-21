@@ -1,0 +1,21 @@
+{
+    "name": "azadi",
+    "displayName": "Azadi",
+    "description": "A lovely Dark theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Azadi ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azadi -color-theme.json"
+            }
+        ]
+    }
+}
